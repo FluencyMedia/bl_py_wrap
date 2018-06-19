@@ -1,7 +1,7 @@
 BrightLocal API
 ===============
 
-A simpler Python wrapper to inteface with the BrightLocal REST API. The wrapper abstracts authentication and calls to the standard endpoint.
+A simpler Python wrapper to interface with the BrightLocal REST API. The wrapper abstracts authentication and calls to the standard endpoint.
 
 
 
