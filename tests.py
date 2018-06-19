@@ -77,7 +77,7 @@ def testBatchResults():
 	
 	# get results
 	batchresponse = batchapi.get_results(batch_id)
-	batchresults  = batchresponse['results']
+	batchresults = batchresponse['results']
 	
 	pp = pprint.PrettyPrinter(depth=4)
 	
