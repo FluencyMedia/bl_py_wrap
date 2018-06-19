@@ -63,3 +63,6 @@ target/
 
 # credentials
 credentials.json
+
+# IDEA
+.idea*
