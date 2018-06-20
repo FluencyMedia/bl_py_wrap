@@ -16,7 +16,7 @@ def testFetchUrls():
 		
 		pass
 	
-	directories = ('google', 'citysearch', 'dexknows', 'kudzu', 'manta')
+	directories = ('google') # , 'citysearch', 'dexknows', 'kudzu', 'manta')
 	
 	# setup api wrappers
 	api = BrightLocalAPI(key=api_key, secret=api_secret)
@@ -69,7 +69,7 @@ def testBatchResults():
 		
 		pass
 	
-	directories = ('google', 'citysearch', 'dexknows', 'kudzu', 'manta')
+	directories = ('google') # , 'citysearch', 'dexknows', 'kudzu', 'manta')
 	
 	# setup api wrappers
 	api = BrightLocalAPI(key=api_key, secret=api_secret)
