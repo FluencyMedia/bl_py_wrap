@@ -1,3 +1,5 @@
+*NOTE:* This is the reference code that was used as a starting point for **[FluencyMedia/bl_api_wrap](https://github.com/FluencyMedia/bl_api_wrap)**
+
 BrightLocal API
 ===============
 
